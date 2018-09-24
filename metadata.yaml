@@ -1,11 +1,16 @@
 _repo: The-New-Century-Standard-Letter-Writer-Business-Family-and-Social-Correspondence-Love-Letters__56911
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 56911-h/images/coverpage.jpg
 creator:
   author:
     agent_name: Chambers, Alfred B.
     gutenberg_agent_id: '49081'
     url: http://www.gutenberg.org/2009/agents/49081
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56911#The-New-Century-Standard-Letter-Writer-Business-Family-and-Social-Correspondence-Love-Letters_
 gutenberg_issued: '2018-04-03'
 gutenberg_type: Text
 identifiers:
